@@ -5,7 +5,8 @@ https://renathaloiza.github.io/apresentacaoEngenhariaPrompt/
 
 ### chatgpt para teste
 https://chatgpt.com/?model=auto
-### gemini
+
+### gemini para teste
 https://gemini.google.com/app?hl=pt-BR
 
 ## 🎯 O que é Engenharia de Prompt?
