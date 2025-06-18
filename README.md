@@ -3,6 +3,7 @@ Apresentação de engenharia de prompt : A Arte de Conversar com a IA,  coisas q
 
 
 https://renathaloiza.github.io/apresentacaoEngenhariaPrompt/
+https://chatgpt.com/?model=auto
 
 ## 🎯 O que é Engenharia de Prompt?
 
