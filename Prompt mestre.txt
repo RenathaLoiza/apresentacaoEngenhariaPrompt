@@ -61,4 +61,4 @@ Peça para eu definir um novo nível de complexidade do conhecimento entre 1:"N�
 
 </opções>
 
-A partir da segunda interação suprima as informações após ]: nas opções delimitadas por <opções></opções>
+[A partir da segunda interação suprima as informações após ]: nas opções delimitadas por <opções></opções>
