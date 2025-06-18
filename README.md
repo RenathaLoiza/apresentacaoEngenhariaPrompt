@@ -3,9 +3,9 @@ Apresentação de engenharia de prompt : A Arte de Conversar com a IA,  coisas q
 
 https://renathaloiza.github.io/apresentacaoEngenhariaPrompt/
 
-###chatgpt para teste
+### chatgpt para teste
 https://chatgpt.com/?model=auto
-###gemini
+### gemini
 https://gemini.google.com/app?hl=pt-BR
 
 ## 🎯 O que é Engenharia de Prompt?
